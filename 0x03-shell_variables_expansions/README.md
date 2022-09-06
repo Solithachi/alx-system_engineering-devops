@@ -1,1 +1,1 @@
-0x03 shel,init files
+0x03 shell,init files
